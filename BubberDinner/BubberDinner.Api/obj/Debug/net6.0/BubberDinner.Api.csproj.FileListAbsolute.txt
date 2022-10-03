@@ -28,3 +28,8 @@ D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin
 D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\BubberDinner.Application.pdb
 D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\BubberDinner.Infrastructure.pdb
 D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\BubberDinner.Domain.pdb
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
