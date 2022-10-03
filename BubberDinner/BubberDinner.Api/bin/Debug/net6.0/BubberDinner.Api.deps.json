@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BubberDinner.Api/1.0.0": {
+        "dependencies": {
+          "BubberDinner.Application": "1.0.0",
+          "BubberDinner.Contracts": "1.0.0",
+          "BubberDinner.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "BubberDinner.Api.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {},
+      "BubberDinner.Application/1.0.0": {
+        "dependencies": {
+          "BubberDinner.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "BubberDinner.Application.dll": {}
+        }
+      },
+      "BubberDinner.Contracts/1.0.0": {
+        "runtime": {
+          "BubberDinner.Contracts.dll": {}
+        }
+      },
+      "BubberDinner.Domain/1.0.0": {
+        "runtime": {
+          "BubberDinner.Domain.dll": {}
+        }
+      },
+      "BubberDinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BubberDinner.Application": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "BubberDinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BubberDinner.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "BubberDinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BubberDinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BubberDinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BubberDinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

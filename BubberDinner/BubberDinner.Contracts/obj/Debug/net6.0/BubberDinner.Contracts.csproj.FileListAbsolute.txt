@@ -1,0 +1,12 @@
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.deps.json
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.dll
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.pdb
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.AssemblyReference.cache
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfoInputs.cache
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfo.cs
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.dll
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\refint\BubberDinner.Contracts.dll
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.pdb
+D:\Programming\CleanArchitectureDDDFromScratch\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\ref\BubberDinner.Contracts.dll
