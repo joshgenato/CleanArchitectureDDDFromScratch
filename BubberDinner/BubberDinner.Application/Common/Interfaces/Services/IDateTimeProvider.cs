@@ -1,4 +1,4 @@
-namespace BubberDinner.Application.Common.Interface.Services;
+namespace BubberDinner.Application.Common.Interfaces.Services;
 
 public interface IDateTimeProvider
 {
